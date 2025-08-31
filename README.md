@@ -1,14 +1,16 @@
-## Hi there 👋, I'm Theekshana Vidushan!  
+<h1 align="center">Hi there 👋, I'm Theekshana Vidushan!</h1>
 
-🚀 Passionate **Software Engineering Student** | 🎨 Creative **Graphic Designer** | 💻 Aspiring **Full-Stack Developer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=🚀+Passionate+Software+Engineering+Student;🎨+Creative+Graphic+Designer;💻+Aspiring+Full-Stack+Developer;🔥+Always+Learning+and+Building" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 - 🌱 Currently learning **Software Engineering @ ICBT Campus**
 - 🖥️ Love building **web apps, creative projects, and cool designs**
-- 🎯 Goal: Become successful, build my dream career **
-- 💬 Ask me about **Web Development, Software solutions , Graphic Design, and Freelancing**
+- 🎯 Goal: Become successful, build my dream career 🚘  
+- 💬 Ask me about **Web Development, Software Solutions, Graphic Design, and Freelancing**
 - ⚡ Fun fact: I believe in **hard work + smart work = success**
 
 ---
@@ -29,14 +31,27 @@
 
 ---
 
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Theek-Shana&show_icons=true&theme=radical" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theek-Shana&theme=radical" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theek-Shana&theme=react-dark&hide_border=true" width="95%"/>
+</p>
 
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theekshana-vidushan-727689293/)  
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Theekshanavidushan.dev@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/theekshana-vidushan-727689293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.fiverr.com/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+  <a href="mailto:Theekshanavidushan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-⭐ From [Shana](https://github.com/Theek-Shana)
+<p align="center">
+  ⭐ From <a href="https://github.com/Theek-Shana">Shana</a>
+</p>
