@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Shana!  
+## Hi there 👋, I'm Theekshana Vidushan!  
 
 🚀 Passionate **Software Engineering Student** | 🎨 Creative **Graphic Designer** | 💻 Aspiring **Full-Stack Developer**
 
@@ -29,9 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Shana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theek-Shana&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theek-Shana&layout=compact&theme=radical)
 
 ---
 
