@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Theekshana Vidushan!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=🚀+Passionate+Software+Engineering+Student;🎨+Creative+Graphic+Designer;💻+Aspiring+Full-Stack+Developer;🔥+Always+Learning+and+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=🚀+Passionate+Software+Engineering+Student;🎨+Creative+Graphic+Designer;💻+Aspiring+Full-Stack+Developer;🔥+Always+Learning+and+Building" alt="Typing SVG" />
 </p>
+
 
 ---
 
