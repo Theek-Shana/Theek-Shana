@@ -1,17 +1,23 @@
-<h1 align="center">Hey, I'm Theekshana Vidushan!</h1>
+<div align="center">
 
-<p align="center">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<h1>Hey, I'm Theekshana Vidushan!</h1>
+
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=🚀+Passionate+Software+Engineering+Student;🎨+Creative+Graphic+Designer;💻+Aspiring+Full-Stack+Developer;🔥+Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
+</div>
 
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Final year , **Software Engineering @ ICBT Campus**
+
+- 🌱 Final year, **Software Engineering @ ICBT Campus**
 - 🖥️ Love building **web apps, creative projects, and Software Solutions**
-- 🎯 Goal: Become successful  , build my dream career   
-- 💬 Ask me about **Web Development, Software Solutions, Graphic Design,Mobile Application Development , and Freelancing**
+- 🎯 Goal: Become successful, build my dream career   
+- 💬 Ask me about **Web Development, Software Solutions, Graphic Design, Mobile Application Development, and Freelancing**
 - ⚡ Fun fact: I believe in **hard work + smart work = success**
 
 ---
@@ -38,8 +44,8 @@
 
 ---
 
-
 ### 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/theekshana-vidushan-727689293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.fiverr.com/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
