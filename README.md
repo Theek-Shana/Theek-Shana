@@ -1,4 +1,4 @@
-<h1 align="center">Hey, , I'm Theekshana Vidushan!</h1>
+<h1 align="center">Hey, I'm Theekshana Vidushan!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=🚀+Passionate+Software+Engineering+Student;🎨+Creative+Graphic+Designer;💻+Aspiring+Full-Stack+Developer;🔥+Always+Learning+and+Building" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🌱 Final year , **Software Engineering @ ICBT Campus**
 - 🖥️ Love building **web apps, creative projects, and cool designs**
-- 🎯 Goal: Become successful, build my dream career 🚘  
+- 🎯 Goal: Become successful  , build my dream career   
 - 💬 Ask me about **Web Development, Software Solutions, Graphic Design,Mobile Application Development , and Freelancing**
 - ⚡ Fun fact: I believe in **hard work + smart work = success**
 
