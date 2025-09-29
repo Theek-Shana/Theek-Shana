@@ -4,41 +4,54 @@
 
 </div>
 
+<div align="center">
+  
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&width=500&lines=🚀+Software+Engineering+Student;💻+Full-Stack+Developer;🔥+Building+the+Future" alt="Typing SVG" />
+<div align="left" style="padding-right: 420px;">
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&vCenter=true&width=500&lines=🚀+Passionate+Software+Engineering+Student;🎨+Creative+Graphic+Designer;💻+Aspiring+Full-Stack+Developer;🔥+Always+Learning+and+Building" alt="Typing SVG" />
+
+<br><br>
 
 ### 👨‍💻 About Me
 
 - 🌱 Final year, **Software Engineering @ ICBT Campus**
-- 🖥️ Building **web apps, mobile solutions, and scalable systems**
-- 🎯 Goal: Build impactful products and scale my career
-- 💬 Expert in **Web Dev, Mobile Apps, System Design, and Freelancing**
-- ⚡ **Hard work + Smart work = Success**
+- 🖥️ Love building **web apps, creative projects, and Software Solutions**
+- 🎯 Goal: Become successful, build my dream career   
+- 💬 Ask me about **Web Development, Software Solutions, Graphic Design, Mobile Application Development, and Freelancing**
+- ⚡ Fun fact: I believe in **hard work + smart work = success**
+
+<br>
+
+</div>
+
+</div>
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ Tech Stack  
 
 **Languages:**  
 
 <p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/-Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white" />
 </p>
 
-**Tools:**  
+**Frameworks & Tools:**  
 
 <p>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -56,7 +69,7 @@
 
 ---
 
-### 🌐 Connect
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/theekshana-vidushan-727689293/">
@@ -71,6 +84,10 @@
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" />
+</div>
 
 <p align="center">
   ⭐ From <a href="https://github.com/Theek-Shana">Shana</a>
