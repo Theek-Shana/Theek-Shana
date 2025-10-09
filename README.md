@@ -45,6 +45,7 @@
 <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/-Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-R-4298B8?style=for-the-badge&logo=R&logoColor=white" />
 </p>
 
 **Frameworks & Tools:**  
