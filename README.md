@@ -61,7 +61,7 @@
 
 ---
 
-### 📊 GitHub Stats         
+### 📊 Git Hub Stats         
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Theek-Shana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
