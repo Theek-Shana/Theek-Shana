@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Final year, **Software Engineering @ ICBT Campus**
+- 🌱 Final year, **Software Engineering Student  @ ICBT Campus**
 - 🖥️ Love building **web apps, creative projects, and Software Solutions**
 - 🎯 Goal: Become successful, build my dream career   
 - 💬 Ask me about **Web Development, Software Solutions, Graphic Design, Mobile Application Development, and Freelancing**
