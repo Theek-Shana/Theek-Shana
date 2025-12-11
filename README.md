@@ -14,7 +14,7 @@
 
 <br><br>
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me 
 
 - 🌱 Final year, **Software Engineering Student @ ICBT Campus**
 - 🖥️ Love building **web apps, creative projects, and Software Solutions**
