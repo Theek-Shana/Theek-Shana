@@ -1,1 +1,190 @@
-<div align="center"> # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Theekshana Vidushan! </div> <div align="center"> <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"> <div align="left" style="padding-right: 420px;"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&vCenter=true&width=500&lines=🚀+Passionate+Software+Engineering+Student;🎨+Creative+Graphic+Designer;💻+Aspiring+Full-Stack+Developer;🔥+Always+Learning+and+Building" alt="Typing SVG" /> <br><br> ### 👨‍💻 About Me - 🌱 Final year, **Software Engineering Student @ ICBT Campus** - 🖥️ Love building **web apps, creative projects, and Software Solutions** - 🎯 Goal: Become successful, build my dream career - 💬 Ask me about **Web Development, Software Solutions, Graphic Design, Mobile Application Development, and Freelancing** - ⚡ Fun fact: I believe in **hard work + smart work = success** <br> </div> </div> <br clear="right"/> --- ### 🛠️ Tech Stack **Languages:** <p> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/-Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white" /> <img src="https://img.shields.io/badge/-R-4298B8?style=for-the-badge&logo=R&logoColor=white" /> </p> **Frameworks & Tools:** <p> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p> --- ### 📊 Git Hub Stats <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Theek-Shana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theek-Shana&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF5733&currStreakLabel=00F7FF" alt="GitHub Streak" height="180"/> </div> --- ### 🌐 Connect With Me <p align="center"> <a href="https://www.linkedin.com/in/theekshana-vidushan-727689293/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.fiverr.com/"> <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /> </a> <a href="mailto:Theekshanavidushan.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> --- <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" /> </div> <p align="center"> ⭐ From <a href="https://github.com/Theek-Shana">Shana</a> </p>
+<div align="center">
+
+# 🚀 Theekshana Vidushan
+
+### Software Engineer | Full-Stack Developer | Creative Problem Solver
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Tomorrow's+Solutions+Today;Transforming+Ideas+into+Reality;Code+%2B+Creativity+%3D+Innovation)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 💫 About Me
+
+```typescript
+const theekshana = {
+    currentStatus: "Final Year Software Engineering Student @ ICBT Campus",
+    focus: ["Web Development", "Mobile Apps", "Creative Solutions"],
+    philosophy: "Hard Work + Smart Work = Success",
+    lookingFor: "Opportunities to create impact through technology",
+    funFact: "I don't just write code, I craft experiences ✨"
+};
+```
+
+<details>
+<summary>🎯 <b>My Journey</b></summary>
+
+> From curious student to aspiring engineer, I'm on a mission to build innovative solutions that make a difference. Every project is a new adventure, every challenge is an opportunity to grow.
+
+**What Drives Me:**
+- 🌟 Passion for creating elegant, user-friendly applications
+- 🔥 Continuous learning and staying ahead of tech trends  
+- 💡 Turning complex problems into simple, beautiful solutions
+- 🤝 Collaborating with others to build something amazing
+
+</details>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 🎨 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+Building responsive, performant web applications with modern frameworks and best practices. From concept to deployment, I handle it all.
+
+</td>
+<td width="50%">
+
+### 📱 Mobile Development  
+Creating seamless mobile experiences that users love. Native performance with cross-platform efficiency.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 Graphic Design
+Crafting visual identities and designs that communicate, captivate, and convert. Beauty meets functionality.
+
+</td>
+<td width="50%">
+
+### 💼 Freelancing
+Delivering custom solutions tailored to client needs. Quality work, on time, every time.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Featured Projects
+
+```javascript
+// Coming soon - Building something amazing!
+const projects = await buildNextBigThing();
+```
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+### 💼 Professional
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+### 🎯 Social
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+
+</div>
+
+---
+
+## 💭 Quote I Live By
+
+<div align="center">
+
+> "The only way to do great work is to love what you do." - Steve Jobs
+
+</div>
+
+---
+
+## 📈 Profile Views
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Let's Build Something Amazing Together!
+
+**Open to collaborations, opportunities, and interesting projects**
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+⭐ From [Theekshana Vidushan](https://github.com/YOUR_GITHUB_USERNAME) with 💙
+
+</div>
