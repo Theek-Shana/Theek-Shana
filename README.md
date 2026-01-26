@@ -2,7 +2,7 @@
 
 # 🚀 Theekshana Vidushan
 
-### Software Engineer | Full-Stack Developer | Creative Problem Solver
+### Software Engineer | Full-Stack Developer | Creative Problem Solver | Designer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Tomorrow's+Solutions+Today;Transforming+Ideas+into+Reality;Code+%2B+Creativity+%3D+Innovation)](https://git.io/typing-svg)
 
