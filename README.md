@@ -6,24 +6,22 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Tomorrow's+Solutions+Today;Transforming+Ideas+into+Reality;Code+%2B+Creativity+%3D+Innovation)](https://git.io/typing-svg)
 
-</div>
+</div> 
 
 ---
+
 
 ## 💫 About Me
 
 ```typescript
 const theekshana = {
-    currentStatus: "Final Year Software Engineering Student @ ICBT Campus",
-    focus: ["Web Development", "Mobile Apps", "Creative Solutions"],
-    philosophy: "Hard Work + Smart Work = Success",
-    lookingFor: "Opportunities to create impact through technology",
-    funFact: "I don't just write code, I craft experiences ✨"
+  name: "Theekshana Vidushan",
+  role: "Final Year Software Engineering Student @ ICBT Campus",
+  focus: ["Web Development", "Mobile Apps", "UI/UX + Creative Solutions"],
+  strengths: ["Problem Solving", "Clean UI", "Fast Learning", "Team Collaboration"],
+  philosophy: "Hard Work + Smart Work = Success",
+  goal: "Build products that create real impact ✨"
 };
-```
-
-<details>
-<summary>🎯 <b>My Journey</b></summary>
 
 > From curious student to aspiring engineer, I'm on a mission to build innovative solutions that make a difference. Every project is a new adventure, every challenge is an opportunity to grow.
 
