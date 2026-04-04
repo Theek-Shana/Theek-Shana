@@ -74,7 +74,7 @@ export default function App() {
         <div style={styles.heroGlow} />
         <div style={styles.heroDots} />
         <div style={styles.heroContent} className="fade-in">
-          <div style={styles.badge}>Available for opportunities</div>
+          <div style={styles.badge}>✦ One line of code today, a better project tomorrow</div>
           <h1 style={styles.heroTitle}>
             Theekshana
             <br />
@@ -97,6 +97,15 @@ export default function App() {
           </div>
         </div>
         <div style={styles.heroCard} className="fade-in-delay">
+          <div style={styles.avatarWrap}>
+            <img
+              src="https://avatars.githubusercontent.com/u/Theek-Shana?v=4"
+              onError={e => { e.target.src = "https://github.com/Theek-Shana.png"; }}
+              alt="Theekshana Vidushan"
+              style={styles.avatar}
+            />
+            <div style={styles.avatarOnline} />
+          </div>
           <div style={styles.cardLine}>
             <span style={styles.cardDot} />
             <span style={styles.cardLabel}>Status</span>
@@ -110,7 +119,7 @@ export default function App() {
           <div style={styles.cardLine}>
             <span style={{ ...styles.cardDot, background: "#a78bfa" }} />
             <span style={styles.cardLabel}>Location</span>
-            <span style={styles.cardValue}>Sri Lanka 🇱🇰</span>
+            <span style={styles.cardValue}>Kandy, Sri Lanka 🇱🇰</span>
           </div>
           <div style={styles.cardDivider} />
           <div style={styles.cardStat}>
@@ -199,13 +208,13 @@ export default function App() {
             Open to opportunities, collaborations, or just a good conversation.
           </p>
           <div style={styles.contactBtns}>
-            <a href="#" style={{ ...styles.contactBtn, background: "#0077b5" }}>
+            <a href="https://www.linkedin.com/in/theekshana-vidushan" target="_blank" rel="noreferrer" style={{ ...styles.contactBtn, background: "#0077b5" }}>
               <span>in</span> LinkedIn
             </a>
-            <a href="#" style={{ ...styles.contactBtn, background: "#1a1a2e", border: "1px solid #334155" }}>
+            <a href="https://github.com/Theek-Shana" target="_blank" rel="noreferrer" style={{ ...styles.contactBtn, background: "#1a1a2e", border: "1px solid #334155" }}>
               <span>⌥</span> GitHub
             </a>
-            <a href="#" style={{ ...styles.contactBtn, background: "#ea4335" }}>
+            <a href="mailto:mahesh190290390@gmail.com" style={{ ...styles.contactBtn, background: "#ea4335" }}>
               <span>✉</span> Email
             </a>
           </div>
@@ -376,6 +385,31 @@ const styles = {
     backdropFilter: "blur(12px)",
     position: "relative",
     zIndex: 1,
+  },
+  avatarWrap: {
+    position: "relative",
+    width: 72,
+    height: 72,
+    margin: "0 auto 20px",
+  },
+  avatar: {
+    width: 72,
+    height: 72,
+    borderRadius: "50%",
+    objectFit: "cover",
+    border: "2px solid rgba(99,102,241,0.4)",
+    display: "block",
+  },
+  avatarOnline: {
+    position: "absolute",
+    bottom: 3,
+    right: 3,
+    width: 12,
+    height: 12,
+    borderRadius: "50%",
+    background: "#4ade80",
+    border: "2px solid #080c14",
+    boxShadow: "0 0 6px #4ade80",
   },
   cardLine: {
     display: "flex",
